@@ -30,7 +30,8 @@
 </ul>
 
 <h2>📷 Visualização do Projeto</h2>
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9cc9a1e-7fe4-428d-b48c-d4c38eaa52ec" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6b9fb0b-95fe-4936-81bc-c38ad6ed2eec" />
+
 
 <h2>🔗 Navegação e Funcionalidades</h2>
 <ul>
